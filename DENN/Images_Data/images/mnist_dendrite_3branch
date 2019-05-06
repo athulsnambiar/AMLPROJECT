@@ -1,0 +1,77 @@
+/home/athul/Desktop/IITB/CS726/Project/DENN/Images_Data/images
+/home/athul/Desktop/IITB/CS726/Project/DENN/Images_Data/images/3
+/home/athul/Desktop/IITB/CS726/Project/DENN/Images_Data/images/3/log
+------------------------begin the branch:3
+  [TL] DendriteLayer  model/DendritNet/dfc1: 512 identity
+  [TL] DendriteLayer  model/DendritNet/dfc2: 512 identity
+  [TL] DendriteLayer  model/DendritNet/dfc1: 512 identity
+  [TL] DendriteLayer  model/DendritNet/dfc2: 512 identity
+  [TL] DendriteLayer  model/DendritNet/dfc1: 512 identity
+  [TL] DendriteLayer  model/DendritNet/dfc2: 512 identity
+   learning_rate: 0.010000
+   batch_size: 100
+   n_epoch: 50, step in an epoch: 550, total n_step: 27500
+Epoch 0 : Step 550-1100 of 27500 took 23.887968s
+   train loss: 0.491013
+   train acc: 0.973400
+   validate loss: 132.697841
+   validate acc: 0.755000
+   test loss: 132.035176
+   test acc: 0.740000
+Epoch 1 : Step 1100-1650 of 27500 took 23.794762s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 132.692095
+   validate acc: 0.755000
+   test loss: 132.030495
+   test acc: 0.740000
+Epoch 2 : Step 1650-2200 of 27500 took 24.024682s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 132.689776
+   validate acc: 0.755000
+   test loss: 132.028423
+   test acc: 0.740000
+Epoch 3 : Step 2200-2750 of 27500 took 24.625402s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 132.680287
+   validate acc: 0.755000
+Epoch 4 : Step 2750-3300 of 27500 took 26.489171s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 132.694538
+   validate acc: 0.755000
+   test loss: 132.025366
+   test acc: 0.740000
+Epoch 5 : Step 3300-3850 of 27500 took 26.075728s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 132.685718
+   validate acc: 0.755000
+Epoch 6 : Step 3850-4400 of 27500 took 24.166222s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 132.685561
+   validate acc: 0.755000
+Epoch 7 : Step 4400-4950 of 27500 took 24.772273s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 132.685373
+   validate acc: 0.755000
+Epoch 8 : Step 4950-5500 of 27500 took 36.001787s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 132.685192
+   validate acc: 0.755000
+Epoch 9 : Step 5500-6050 of 27500 took 41.085953s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 132.684998
+   validate acc: 0.755000
+Epoch 10 : Step 6050-6600 of 27500 took 43.437235s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 132.684807
+   validate acc: 0.755000
+------------------------finish the branch:3

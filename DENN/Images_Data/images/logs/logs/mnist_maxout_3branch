@@ -1,0 +1,64 @@
+/home/athul/Desktop/IITB/CS726/Project/DENN/Images_Data/images
+/home/athul/Desktop/IITB/CS726/Project/DENN/Images_Data/images/4
+/home/athul/Desktop/IITB/CS726/Project/DENN/Images_Data/images/4/log
+------------------------begin the branch:4
+MaxoutDenseLayer  model/MaxoutFullConnectNet/fc1: 512 max_out
+MaxoutDenseLayer  model/MaxoutFullConnectNet/fc2: 2048 max_out
+MaxoutDenseLayer  model/MaxoutFullConnectNet/fc1: 512 max_out
+MaxoutDenseLayer  model/MaxoutFullConnectNet/fc2: 2048 max_out
+MaxoutDenseLayer  model/MaxoutFullConnectNet/fc1: 512 max_out
+MaxoutDenseLayer  model/MaxoutFullConnectNet/fc2: 2048 max_out
+   learning_rate: 0.010000
+   batch_size: 100
+   n_epoch: 50, step in an epoch: 550, total n_step: 27500
+Epoch 0 : Step 550-1100 of 27500 took 15.832317s
+   train loss: 0.154895
+   train acc: 0.975873
+   validate loss: 2.493788
+   validate acc: 0.810000
+   test loss: 3.795934
+   test acc: 0.720000
+Epoch 1 : Step 1100-1650 of 27500 took 17.838299s
+   train loss: 0.000001
+   train acc: 1.000000
+   validate loss: 2.472152
+   validate acc: 0.810000
+   test loss: 3.759992
+   test acc: 0.720000
+Epoch 2 : Step 1650-2200 of 27500 took 16.688855s
+   train loss: 0.000001
+   train acc: 1.000000
+   validate loss: 2.457652
+   validate acc: 0.810000
+Epoch 3 : Step 2200-2750 of 27500 took 15.790759s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 2.450458
+   validate acc: 0.809800
+Epoch 4 : Step 2750-3300 of 27500 took 15.281466s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 2.439340
+   validate acc: 0.810200
+   test loss: 3.707734
+   test acc: 0.720000
+Epoch 5 : Step 3300-3850 of 27500 took 17.141928s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 2.437198
+   validate acc: 0.815000
+   test loss: 3.700041
+   test acc: 0.725000
+Epoch 6 : Step 3850-4400 of 27500 took 22.096468s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 2.437114
+   validate acc: 0.814800
+Epoch 7 : Step 4400-4950 of 27500 took 15.960935s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 2.430188
+   validate acc: 0.815200
+   test loss: 3.689868
+   test acc: 0.725000
+------------------------finish the branch:4

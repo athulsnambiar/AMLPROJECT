@@ -1,0 +1,281 @@
+/home/athul/Desktop/IITB/CS726/Project/DENN/Images_Data/images
+/home/athul/Desktop/IITB/CS726/Project/DENN/Images_Data/images/-1
+/home/athul/Desktop/IITB/CS726/Project/DENN/Images_Data/images/-1/log
+------------------------begin the branch:-1
+   learning_rate: 0.010000
+   batch_size: 100
+   n_epoch: 50, step in an epoch: 550, total n_step: 27500
+Epoch 0 : Step 550-1100 of 27500 took 6.565517s
+   train loss: 0.054822
+   train acc: 0.983200
+   validate loss: 3.293299
+   validate acc: 0.740000
+   test loss: 3.294056
+   test acc: 0.715000
+Epoch 1 : Step 1100-1650 of 27500 took 7.561120s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.508337
+   validate acc: 0.740000
+   test loss: 3.463216
+   test acc: 0.720000
+Epoch 2 : Step 1650-2200 of 27500 took 8.466353s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.607159
+   validate acc: 0.735000
+Epoch 3 : Step 2200-2750 of 27500 took 9.584489s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.671257
+   validate acc: 0.725000
+Epoch 4 : Step 2750-3300 of 27500 took 8.845331s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.714296
+   validate acc: 0.725000
+Epoch 5 : Step 3300-3850 of 27500 took 8.696383s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.740825
+   validate acc: 0.725000
+Epoch 6 : Step 3850-4400 of 27500 took 8.654652s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.756815
+   validate acc: 0.725000
+Epoch 7 : Step 4400-4950 of 27500 took 8.625558s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.771849
+   validate acc: 0.725000
+Epoch 8 : Step 4950-5500 of 27500 took 8.530001s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.786066
+   validate acc: 0.725000
+Epoch 9 : Step 5500-6050 of 27500 took 8.514577s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.780662
+   validate acc: 0.725000
+Epoch 10 : Step 6050-6600 of 27500 took 8.599818s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.779173
+   validate acc: 0.725000
+Epoch 11 : Step 6600-7150 of 27500 took 8.664943s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.785993
+   validate acc: 0.724800
+Epoch 12 : Step 7150-7700 of 27500 took 8.585878s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.775436
+   validate acc: 0.725200
+Epoch 13 : Step 7700-8250 of 27500 took 8.752375s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.784631
+   validate acc: 0.725000
+Epoch 14 : Step 8250-8800 of 27500 took 8.460001s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.777445
+   validate acc: 0.725000
+Epoch 15 : Step 8800-9350 of 27500 took 8.694373s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.763334
+   validate acc: 0.725000
+Epoch 16 : Step 9350-9900 of 27500 took 8.633746s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.750941
+   validate acc: 0.724800
+Epoch 17 : Step 9900-10450 of 27500 took 8.655024s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.719855
+   validate acc: 0.720200
+Epoch 18 : Step 10450-11000 of 27500 took 8.472335s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.715652
+   validate acc: 0.725000
+Epoch 19 : Step 11000-11550 of 27500 took 8.616141s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.696447
+   validate acc: 0.725000
+Epoch 20 : Step 11550-12100 of 27500 took 8.677769s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.692675
+   validate acc: 0.724800
+Epoch 21 : Step 12100-12650 of 27500 took 8.736112s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.667047
+   validate acc: 0.725200
+Epoch 22 : Step 12650-13200 of 27500 took 8.609623s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.665841
+   validate acc: 0.725000
+Epoch 23 : Step 13200-13750 of 27500 took 8.548822s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.676552
+   validate acc: 0.725000
+Epoch 24 : Step 13750-14300 of 27500 took 8.722062s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.682498
+   validate acc: 0.730000
+Epoch 25 : Step 14300-14850 of 27500 took 8.701383s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.713805
+   validate acc: 0.730000
+Epoch 26 : Step 14850-15400 of 27500 took 8.585204s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.754035
+   validate acc: 0.730000
+Epoch 27 : Step 15400-15950 of 27500 took 8.463137s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.759411
+   validate acc: 0.730000
+Epoch 28 : Step 15950-16500 of 27500 took 8.523668s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.713583
+   validate acc: 0.730000
+Epoch 29 : Step 16500-17050 of 27500 took 8.669661s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.737464
+   validate acc: 0.724800
+Epoch 30 : Step 17050-17600 of 27500 took 8.648941s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.759232
+   validate acc: 0.730200
+Epoch 31 : Step 17600-18150 of 27500 took 8.551640s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.787783
+   validate acc: 0.730000
+Epoch 32 : Step 18150-18700 of 27500 took 8.650200s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.764622
+   validate acc: 0.735000
+Epoch 33 : Step 18700-19250 of 27500 took 8.508916s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.729464
+   validate acc: 0.740000
+   test loss: 4.046800
+   test acc: 0.720000
+Epoch 34 : Step 19250-19800 of 27500 took 8.697642s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.727812
+   validate acc: 0.735000
+Epoch 35 : Step 19800-20350 of 27500 took 8.592696s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.714388
+   validate acc: 0.740000
+Epoch 36 : Step 20350-20900 of 27500 took 8.692497s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.691030
+   validate acc: 0.740000
+Epoch 37 : Step 20900-21450 of 27500 took 8.566328s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.688422
+   validate acc: 0.745200
+   test loss: 3.978417
+   test acc: 0.715000
+Epoch 38 : Step 21450-22000 of 27500 took 9.382931s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.718452
+   validate acc: 0.749800
+   test loss: 3.964935
+   test acc: 0.720000
+Epoch 39 : Step 22000-22550 of 27500 took 8.791296s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.766873
+   validate acc: 0.750000
+   test loss: 3.971602
+   test acc: 0.715000
+Epoch 40 : Step 22550-23100 of 27500 took 8.621731s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.841000
+   validate acc: 0.750000
+Epoch 41 : Step 23100-23650 of 27500 took 8.723238s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 3.932191
+   validate acc: 0.755000
+   test loss: 4.015699
+   test acc: 0.725000
+Epoch 42 : Step 23650-24200 of 27500 took 8.653439s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 4.021928
+   validate acc: 0.755000
+   test loss: 4.032412
+   test acc: 0.725000
+Epoch 43 : Step 24200-24750 of 27500 took 8.617352s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 4.116709
+   validate acc: 0.750000
+Epoch 44 : Step 24750-25300 of 27500 took 8.669318s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 4.197987
+   validate acc: 0.750000
+Epoch 45 : Step 25300-25850 of 27500 took 8.419267s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 4.255377
+   validate acc: 0.755000
+   test loss: 4.028336
+   test acc: 0.725000
+Epoch 46 : Step 25850-26400 of 27500 took 8.713759s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 4.282457
+   validate acc: 0.760000
+   test loss: 4.036508
+   test acc: 0.730000
+Epoch 47 : Step 26400-26950 of 27500 took 8.764307s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 4.307393
+   validate acc: 0.760000
+   test loss: 4.051022
+   test acc: 0.730000
+Epoch 48 : Step 26950-27500 of 27500 took 8.547127s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 4.319193
+   validate acc: 0.755000
+Epoch 49 : Step 27500-28050 of 27500 took 8.686246s
+   train loss: 0.000000
+   train acc: 1.000000
+   validate loss: 4.336356
+   validate acc: 0.754800
+-------------------training total cost time: 455.984699 seconds
+------------------------finish the branch:-1
